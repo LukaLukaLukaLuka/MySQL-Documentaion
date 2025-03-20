@@ -3,10 +3,6 @@
 - Capatalization Dosen't Matter
 - Binary Bools (1 = True, 0 = False)
 ---
-## 1. [Databases](#lection-1-databases)
-## 2. [Tables](#lection-2-tables)
-     1. [Columns](#1-columns)\
-     2. [Rows](#2-rows)
 
 ---
 ## Lection 1: Databases
